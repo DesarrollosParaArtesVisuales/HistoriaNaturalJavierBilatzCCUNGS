@@ -47,6 +47,12 @@ p.participantes{
     display: inline-block;
 }
 
+p#firmaCurador{
+        padding: 20px;
+      text-align: right;  
+    
+}
+
 p.textoCuratorial{
     padding: 20px;
     text-align: left;
